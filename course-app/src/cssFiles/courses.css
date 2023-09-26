@@ -1,0 +1,19 @@
+.courses {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.course {
+  margin-bottom: 20px;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+}
+
+.buyButton {
+  margin-left: 110px !important;
+  margin-bottom: 15px !important;
+}
